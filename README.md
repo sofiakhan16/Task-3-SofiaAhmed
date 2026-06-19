@@ -13,7 +13,6 @@ The analysis demonstrates core SQL concepts including data retrieval, filtering,
 
 * **SQL**
 * **SQLite**
-* **Jupyter Notebook**
 * **E-Commerce Orders Dataset**
 
 ## 🔍 SQL Concepts Applied
